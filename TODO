@@ -1,0 +1,6 @@
+add ld to gpu.set.matrix arguments
+add increment to gpu.set.vector arguments
+add free routine for gpu memory
+add chooseGpu and showGpu
+remove redundant 'symmetric' from docu
+in one vector functions, get rid of .x designation
