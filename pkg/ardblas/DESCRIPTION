@@ -7,7 +7,7 @@ Maintainer: Josh Buckner <bucknerj@umich.edu>
 Depends: R (>= 2.8.0)
 SystemRequirements: Nvidia's CUBLAS library (>= release 2.3)
 Description: This package provides R interfaces to Nvidia's CUBLAS library. The
-functions' interfaces represent a compromise between the netlib standard and R's ease of use.
+  functions' interfaces represent a compromise between the netlib standard and R's ease of use.
 License: GPL-3
 Repository: CRAN
 Date/Publication: 2009-06-25 06:39:07
